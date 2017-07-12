@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         editNeck.setText(neck);
         editSleeve.setText(sleeve);
         editWaist.setText(waist);
-        editInseam.setText(inseam);
+        editInseam.setText(inseam)；
 
         findViewById(R.id.height_button)
                 .setOnClickListener(new View.OnClickListener(){
